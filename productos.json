@@ -1,0 +1,54 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "titulo": "Monkey D Luffy",
+        "precio": 30.5,
+        "imagen": "img/img1.jpg"
+      },
+      {
+        "id": 2,
+        "titulo": "God Usopp",
+        "precio": 10,
+        "imagen": "img/img2.jpg"
+      },
+      {
+        "id": 3,
+        "titulo": "Eustass Kid",
+        "precio": 20.5,
+        "imagen": "img/img3.jpg"
+      },
+      {
+        "id": 4,
+        "titulo": "Brook Soul King",
+        "precio": 17,
+        "imagen": "img/img4.jpg"
+      },
+      {
+        "id": 5,
+        "titulo": "Gol D Roger",
+        "precio": 25,
+        "imagen": "img/img5.jpg"
+      },
+      {
+        "id": 6,
+        "titulo": "Edward Newgate",
+        "precio": 25.5,
+        "imagen": "img/img6.jpg"
+      },
+      {
+        "id": 7,
+        "titulo": "Roronoa Zoro",
+        "precio": 20,
+        "imagen": "img/img7.jpg"
+      },
+      {
+        "id": 8,
+        "titulo": "Vinsmoke Sanji",
+        "precio": 19.9,
+        "imagen": "img/img8.jpg"
+      }
+    ],
+    "carrito": []
+  }
+  

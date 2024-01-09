@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link rel="stylesheet" href="estilos.css">
+    <title>OneStore</title>
+</head>
+<body>
+
+    <header>
+        <nav class="nav container">
+            <a href="#" class="logo"><span>One</span>Store</a>
+            <i class='bx bx-shopping-bag' id="icono-carrito"></i>
+            <div class="carrito">
+                <h2 class="titulo-carrito">Tu Carrito</h2>
+                <div class="contenido-carrito" id="contenido-carrito"></div>
+                <div class="total">
+                    <div class="titulo-total">Total</div>
+                    <div class="precio-total">$0</div>
+                </div>
+                <button type="button" class="btn-compra">Comprar Ahora</button>
+                <i class='bx bx-x' id="cerrar-carrito"></i>
+            </div>
+        </nav>
+    </header>
+
+    <section class="tienda container">
+        <h2 class="titulo-seccion">One Shop</h2>
+        <div class="contenido-tienda" id="contenido-tienda"></div>
+    </section>
+
+    <script src="main.js"></script>
+</body>
+</html>
